@@ -1,3 +1,3 @@
-# Lab-2 DT-systems and Applications
+# Lab-3 Z-Transform
 
-## Deadline - 30 Aug!!
+## Deadline - 5 September!!
